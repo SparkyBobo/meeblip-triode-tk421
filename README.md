@@ -57,3 +57,9 @@ MeeBlip Contributors:
 
 So, if you’re loving this synth saga, send some good vibes to these legends. Without their brainpower, my 40-year-old promise would still be stuck in the parts bin!
 
+
+
+Sparky: ![Sparky from 1983](media/sparky.jpg)
+
+F: ![F from 1983](media/f.jpg)
+
