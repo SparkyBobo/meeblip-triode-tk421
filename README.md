@@ -59,7 +59,7 @@ So, if you’re loving this synth saga, send some good vibes to these legends. W
 
 
 
-Sparky: [Sparky from 1983](media/sparky.jpg)
+Sparky: ![Sparky from 1983](media/sparky.jpg)
 
-F: [F from 1983](media/f.jpg)
+F: ![F from 1983](media/f.jpg)
 
